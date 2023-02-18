@@ -10,6 +10,10 @@ module.exports = {
       "grayish-blue": "hsl(246, 25%, 77%)",
       white: "hsl(360, 100%, 100%)",
     },
+    plugins: [
+      require("@tailwindcss/forms"),
+      // ...
+    ],
     fontFamily: {
       Poppins: ["Poppins", "sans-serif"],
     },
