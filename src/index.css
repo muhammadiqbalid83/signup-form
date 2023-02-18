@@ -7,4 +7,5 @@
 body {
   background: url("./assets/bg-intro-mobile.png");
   background-color: hsl(0, 100%, 74%);
+  font-family: Poppins;
 }
